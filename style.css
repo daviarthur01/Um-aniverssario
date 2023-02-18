@@ -1,0 +1,19 @@
+div{
+    background-color: rgba(0, 0, 0, 0.596);
+    text-align: center;
+    width: 848px;
+    height: 515px;
+    margin: auto;
+}
+
+body{
+    background: linear-gradient(90deg, red, orange);
+}
+
+p{
+    text-align: center;
+    margin-top: 175px;
+    width: 777px;
+    font-size: 50px;
+}
+
